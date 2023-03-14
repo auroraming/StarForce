@@ -22,3 +22,7 @@
 /ProjectSettings/ProjectVersion.txt
 /Packages/*
 /UnityPackageManager/*
+Out/
+Logs/
+.idea/
+.vscode/
